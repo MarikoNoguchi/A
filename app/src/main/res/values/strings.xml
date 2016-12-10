@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A</string>
+
+    <string name="GreetM">Good Morning</string>
+    <string name="GreetE">Good Evening</string>
+
+    <string name="hint">Name</string>
+    <string name="Submit">SUBMIT</string>
+
+    <string name="ThankYou">Thank You </string>
+    <string name="ThankYou2">!</string>
+</resources>

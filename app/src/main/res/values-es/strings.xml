@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A</string>
+
+    <string name="GreetM">buenos dias</string>
+    <string name="GreetE">buenas noches</string>
+
+    <string name="hint">el nombre</string>
+    <string name="Submit">entregar</string>
+
+    <string name="ThankYou">gracias </string>
+    <string name="ThankYou2">!</string>
+</resources>

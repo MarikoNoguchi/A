@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A</string>
+
+    <string name="GreetM">おはようございます</string>
+    <string name="GreetE">こんばんは</string>
+
+    <string name="hint">お名前</string>
+    <string name="Submit">投稿</string>
+
+    <string name="ThankYou">ありがとう </string>
+    <string name="ThankYou2">さん!</string>
+</resources>
